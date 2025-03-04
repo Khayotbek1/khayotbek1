@@ -16,12 +16,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khayotbek1&show_icons=true&theme=chartreuse-dark)
 
-<a href="https://github.com/khayotbek1/khayotbek1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khayotbek1&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-
-
 ### 🤝 Social media:
 <a href="https://t.me/KhRazzoqov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
