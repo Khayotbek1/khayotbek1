@@ -17,7 +17,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khayotbek1&show_icons=true&theme=chartreuse-dark)
 
 ### 🤝 Social media:
-<a href="https://t.me/KhRazzoqov" target="_blank">
+<a href="https://t.me/Razzoqov7" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
  </a>
 
