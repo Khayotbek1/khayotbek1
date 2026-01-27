@@ -68,12 +68,14 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khayotbek1&layout=compact&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khayotbek1&theme=tokyonight" />
     </td>
   </tr>
 </table>
-
 
 ---
 
