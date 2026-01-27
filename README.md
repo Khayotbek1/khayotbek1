@@ -58,14 +58,17 @@
 
 ## 📊 GitHub Statistikam
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khayotbek1&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khayotbek1&theme=tokyonight" width="48%" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=khayotbek1&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khayotbek1&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khayotbek1&layout=compact&theme=tokyonight" width="40%" />
-</p>
 
 ---
 
