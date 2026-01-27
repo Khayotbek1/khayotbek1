@@ -71,7 +71,7 @@
 
 ## 🤝 Aloqa
 
-- 💬 Telegram: **@USERNAME_HERE**
+- 💬 Telegram: **@Razzoqov7**
 - 💻 GitHub: https://github.com/khayotbek1
 
 ---
