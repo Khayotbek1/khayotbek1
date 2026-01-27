@@ -2,28 +2,82 @@
    <h1>Hi there, I'm <a href="https://t.me/HRazzoqov">Khayotbek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
+<h3 align="center">Backend Developer | Python • Django • DRF • Telegram Bots</h3>
 
-### ⚙️ GitHub statics:
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Khayotbek1&theme=dark&background=dark" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khayotbek1&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/khayotbek1">
+    <img src="https://komarev.com/ghpvc/?username=khayotbek1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khayotbek1&show_icons=true&theme=chartreuse-dark)
+---
 
+## 🧠 Men haqimda
 
-### 🤝 Social media:
-<a href="https://t.me/Razzoqov7" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
- </a>
+- 🐍 **Python Backend Developer**
+- 🚀 **Django & Django REST Framework** bilan real loyihalar
+- 🤖 **Telegram Botlar (aiogram 3.x)** — production darajada
+- 🐳 **Docker & Docker Compose** bilan deploy
+- 🗄 **PostgreSQL + SQLAlchemy (async)**
+- 💼 SaaS va CRM tizimlar ustida ishlayman
+- 🎯 Maqsad: **real muammo → real yechim → real daromad**
 
-<!--
-**Khayotbek1/Khayotbek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+
+## 🛠 Texnologiyalar
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-Django_REST-red?style=for-the-badge)
+
+### Telegram Bots
+![Aiogram](https://img.shields.io/badge/Aiogram_3.x-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+### Database & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📌 Asosiy Loyihalar
+
+- 🔹 **Telegram Bot Manager (SaaS)**
+- 🔹 **CRM & ERP tizimlar**
+- 🔹 **Installment payment platform**
+- 🔹 **Online Course API (DRF)**
+- 🔹 **Auto-posting Telegram bots**
+
+> Har bir loyiha **real biznes muammo** asosida qurilgan.
+
+---
+
+## 📊 GitHub Statistikam
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khayotbek1&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khayotbek1&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khayotbek1&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
+---
+
+## 🤝 Aloqa
+
+- 💬 Telegram: **@USERNAME_HERE**
+- 💻 GitHub: https://github.com/khayotbek1
+
+---
+
+<p align="center">
+  <b>“Kod yozish — hunar. Muammo yechish — san’at.”</b>
+</p>
 
 
