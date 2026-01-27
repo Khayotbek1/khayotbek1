@@ -64,6 +64,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=khayotbek1&show_icons=true&theme=tokyonight" />
     </td>
     <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=khayotbek1&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khayotbek1&layout=compact&theme=tokyonight" />
     </td>
   </tr>
