@@ -52,7 +52,7 @@
 - 🔹 **Online Course API (DRF)**
 - 🔹 **Auto-posting Telegram bots**
 
-> Har bir loyiha **real biznes muammo** asosida qurilgan.
+> Har bir loyiha **real biznes muammo** asosida qurilgan
 
 ---
 
