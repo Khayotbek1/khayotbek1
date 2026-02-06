@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Men haqimda
+## Men haqimda
 
 - 🐍 **Python Backend Developer**
 - 🚀 **Django & Django REST Framework** bilan real loyihalar
@@ -20,7 +20,7 @@
 - 🐳 **Docker & Docker Compose** bilan deploy
 - 🗄 **PostgreSQL + SQLAlchemy (async)**
 - 💼 SaaS va CRM tizimlar ustida ishlayman
-- 🎯 Maqsad: **real muammo → real yechim → real daromad**
+- 🎯 Maqsad: **Software Enginer**
 
 ---
 
