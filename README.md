@@ -19,6 +19,7 @@
 - 🤖 **Telegram Botlar (aiogram 3.x)** — production darajada
 - 🐳 **Docker & Docker Compose** bilan deploy
 - 🗄 **PostgreSQL + SQLAlchemy (async)**
+-   **Javascript + React**
 - 💼 SaaS va CRM tizimlar ustida ishlayman
 - 🎯 Maqsad: **Software Enginer**
 
